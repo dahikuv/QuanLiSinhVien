@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/yy6XI4JXnY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\phamt\\OneDrive\\Desktop\\Bá chủ C#\\OOP cuối kì\\OOP cuối kì\\OOP cuối kì.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\phamt\\.nuget\\packages\\mstest.testadapter\\3.1.1\\mstest.testadapter.3.1.1.nupkg.sha512",
+    "C:\\Users\\phamt\\.nuget\\packages\\mstest.testframework\\3.1.1\\mstest.testframework.3.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

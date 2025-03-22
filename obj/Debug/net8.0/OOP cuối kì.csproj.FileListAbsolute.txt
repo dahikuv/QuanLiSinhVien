@@ -1,0 +1,35 @@
+C:\Users\phamt\OneDrive\Desktop\Bá chủ C#\OOP cuối kì\OOP cuối kì\obj\Debug\net8.0\OOP cuối kì.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phamt\OneDrive\Desktop\Bá chủ C#\OOP cuối kì\OOP cuối kì\obj\Debug\net8.0\OOP cuối kì.AssemblyInfoInputs.cache
+C:\Users\phamt\OneDrive\Desktop\Bá chủ C#\OOP cuối kì\OOP cuối kì\obj\Debug\net8.0\OOP cuối kì.AssemblyInfo.cs
+C:\Users\phamt\OneDrive\Desktop\Bá chủ C#\OOP cuối kì\OOP cuối kì\obj\Debug\net8.0\OOP cuối kì.csproj.CoreCompileInputs.cache
+C:\Users\phamt\OneDrive\Desktop\Bá chủ C#\OOP cuối kì\OOP cuối kì\obj\Debug\net8.0\OOP cuối kì.csproj.AssemblyReference.cache
+C:\Users\phamt\OneDrive\Desktop\Bá chủ C#\OOP cuối kì\OOP cuối kì\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\phamt\OneDrive\Desktop\Bá chủ C#\OOP cuối kì\OOP cuối kì\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\phamt\OneDrive\Desktop\Bá chủ C#\OOP cuối kì\OOP cuối kì\bin\Debug\net8.0\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\phamt\OneDrive\Desktop\Bá chủ C#\OOP cuối kì\OOP cuối kì\bin\Debug\net8.0\OOP cuối kì.exe
+C:\Users\phamt\OneDrive\Desktop\Bá chủ C#\OOP cuối kì\OOP cuối kì\bin\Debug\net8.0\OOP cuối kì.deps.json
+C:\Users\phamt\OneDrive\Desktop\Bá chủ C#\OOP cuối kì\OOP cuối kì\bin\Debug\net8.0\OOP cuối kì.runtimeconfig.json
+C:\Users\phamt\OneDrive\Desktop\Bá chủ C#\OOP cuối kì\OOP cuối kì\bin\Debug\net8.0\OOP cuối kì.dll
+C:\Users\phamt\OneDrive\Desktop\Bá chủ C#\OOP cuối kì\OOP cuối kì\bin\Debug\net8.0\OOP cuối kì.pdb
+C:\Users\phamt\OneDrive\Desktop\Bá chủ C#\OOP cuối kì\OOP cuối kì\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\phamt\OneDrive\Desktop\Bá chủ C#\OOP cuối kì\OOP cuối kì\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\phamt\OneDrive\Desktop\Bá chủ C#\OOP cuối kì\OOP cuối kì\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\phamt\OneDrive\Desktop\Bá chủ C#\OOP cuối kì\OOP cuối kì\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\phamt\OneDrive\Desktop\Bá chủ C#\OOP cuối kì\OOP cuối kì\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\phamt\OneDrive\Desktop\Bá chủ C#\OOP cuối kì\OOP cuối kì\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\phamt\OneDrive\Desktop\Bá chủ C#\OOP cuối kì\OOP cuối kì\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\phamt\OneDrive\Desktop\Bá chủ C#\OOP cuối kì\OOP cuối kì\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\phamt\OneDrive\Desktop\Bá chủ C#\OOP cuối kì\OOP cuối kì\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\phamt\OneDrive\Desktop\Bá chủ C#\OOP cuối kì\OOP cuối kì\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\phamt\OneDrive\Desktop\Bá chủ C#\OOP cuối kì\OOP cuối kì\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\phamt\OneDrive\Desktop\Bá chủ C#\OOP cuối kì\OOP cuối kì\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\phamt\OneDrive\Desktop\Bá chủ C#\OOP cuối kì\OOP cuối kì\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\phamt\OneDrive\Desktop\Bá chủ C#\OOP cuối kì\OOP cuối kì\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\phamt\OneDrive\Desktop\Bá chủ C#\OOP cuối kì\OOP cuối kì\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\phamt\OneDrive\Desktop\Bá chủ C#\OOP cuối kì\OOP cuối kì\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\phamt\OneDrive\Desktop\Bá chủ C#\OOP cuối kì\OOP cuối kì\obj\Debug\net8.0\OOP cuối.ED09D0A5.Up2Date
+C:\Users\phamt\OneDrive\Desktop\Bá chủ C#\OOP cuối kì\OOP cuối kì\obj\Debug\net8.0\OOP cuối kì.dll
+C:\Users\phamt\OneDrive\Desktop\Bá chủ C#\OOP cuối kì\OOP cuối kì\obj\Debug\net8.0\refint\OOP cuối kì.dll
+C:\Users\phamt\OneDrive\Desktop\Bá chủ C#\OOP cuối kì\OOP cuối kì\obj\Debug\net8.0\OOP cuối kì.pdb
+C:\Users\phamt\OneDrive\Desktop\Bá chủ C#\OOP cuối kì\OOP cuối kì\obj\Debug\net8.0\OOP cuối kì.genruntimeconfig.cache
+C:\Users\phamt\OneDrive\Desktop\Bá chủ C#\OOP cuối kì\OOP cuối kì\obj\Debug\net8.0\ref\OOP cuối kì.dll
